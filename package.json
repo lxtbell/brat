@@ -1,0 +1,27 @@
+{
+  "name": "brat-client",
+  "version": "0.0.2",
+  "description": "Client from brat rapid annotation tool",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CogComp/brat-client.git"
+  },
+  "keywords": [
+    "brat",
+    "client",
+    "annotation",
+    "text"
+  ],
+  "author": "Cognitive Computation Group",
+  "license": "NCSA",
+  "bugs": {
+    "url": "https://github.com/CogComp/brat-client/issues"
+  },
+  "homepage": "https://github.com/CogComp/brat-client#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "browserify-middleware": "^8.0.0",
+    "express": "^4.16.0"
+  }
+}
